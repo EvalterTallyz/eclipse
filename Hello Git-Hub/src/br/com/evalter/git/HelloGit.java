@@ -18,7 +18,7 @@ public class HelloGit {
 		
 		System.out.println("teste 03");
 		
-		// outra modificaÃ§Ã£o! Yuruuhhh
+		// outra modificação! Yuruuhh
 
 	}
 
